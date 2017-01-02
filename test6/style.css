@@ -1,0 +1,31 @@
+img {
+	position: absolute;
+	width: 600px;
+	height: 400px;
+}
+
+
+#img1 {
+	margin: 30px;
+}
+
+#img2 {
+	margin: 60px;
+}
+
+
+#img3 {
+	margin: 90px;
+}
+
+#img1:hover {
+	z-index: 1;	
+}
+
+#img2:hover {
+	z-index: 1;
+}
+
+#img3:hover {
+	z-index: 1;
+}
